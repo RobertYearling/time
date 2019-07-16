@@ -1,0 +1,16 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.clock {
+  background-color: rgb(24, 67, 64);
+  color: aliceblue;
+  font-size: 2rem;
+  padding: 2rem;
+}
+
+#date {
+  text-align: center;
+}
